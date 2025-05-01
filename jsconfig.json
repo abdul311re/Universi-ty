@@ -1,0 +1,18 @@
+{
+    "files": [],
+    "references": [
+      {
+        "path": "./components.json"
+      },
+      {
+        "path": "./components.json"
+      }
+    ],
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@/*": ["./src/*"]
+      }
+    }
+  }
+  
