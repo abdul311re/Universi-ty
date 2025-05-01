@@ -1,6 +1,6 @@
 function Dashboard(){
 return(<>
-<p>Abdul Rehman</p>
+<p>Abdul Rehmaan</p>
 </>)
 }
 export default Dashboard;
